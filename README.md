@@ -6,7 +6,11 @@ Morse code has been employed as an assistive technology, helping people with a v
 Steps:
 
 1.Write a code to encrypt text to Morse.
+
+
 2.Create a link (program or interface (no external components)) between Morse
 and a flashlight and that should blink with respective to Morse.
+
+
 3.Create another program to record the flash and that flash-toggling should be
 again reconverted into Morse and then decrypted into text.
