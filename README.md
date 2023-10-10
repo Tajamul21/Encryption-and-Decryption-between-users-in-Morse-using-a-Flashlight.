@@ -3,7 +3,7 @@ Morse code has been employed as an assistive technology, helping people with a v
 
 # Morse Code and Flashlight Encryption/Decryption
 
-![Morse Code and Flashlight Encryption/Decryption](Screenshot 2021-06-20 215209.jpg)
+![Morse Code and Flashlight Encryption/Decryption](Screenshot_215209.jpg)
 
 This Python project allows you to perform encryption and decryption of text using Morse code, as well as a unique feature - encrypting Morse code using a flashlight and then decrypting it back into text. Whether you want to communicate secretly or experiment with Morse code and flashlights, this project has you covered.
 
